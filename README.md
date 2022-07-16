@@ -5,7 +5,7 @@ Tact - Contact List
 ## 🔧 Functions
 
 ### Function 01:
-- Runner for contact project
+- Runner for contact project (Will build and run the [tact-api](https://github.com/DMarlon/tact-api) and [tact-front](https://github.com/DMarlon/tact-front) projects)
 
 ## Dependencies 
 
